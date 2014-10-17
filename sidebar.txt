@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[scf:home|Door43 (scf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-scf|d43-scf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-scf/archive/master.zip|d43-scf.zip]]
+
+**Recent Changes**
+{{changes>ns = scf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/scf|Ethnologue data]]
+
